@@ -1,26 +1,26 @@
- // Funcionalidades da API //
- // WaiterApp //
+ ## Funcionalidades do Projeto
+ ## WaiterApp 
 
- # - Cadastrar um novo usuario
+ ### - Cadastrar um novo usuario
 
- # - Logar um usuario
+ ### - Logar um usuario
 
- # - Verificar autenticacao para rotas privadas
+### - Verificar autenticacao para rotas privadas
 
- # - Mostrar detalhes do usuario logado
+ ### - Mostrar detalhes do usuario logado
 
- # - Criar e listar categorias
+ ### - Criar e listar categorias
 
- # - Criar produtos e listar produtos de uma categoria especifica
+ ### - Criar produtos e listar produtos de uma categoria especifica
 
- # - Abrir uma mesa (order) e porder fecha-la
+ ### - Abrir uma mesa (order) e porder fecha-la
 
- # - Adicionar itens a uma mesa e tambem poder retirar os itens 
+ ### - Adicionar itens a uma mesa e tambem poder retirar os itens 
 
- # -  Enviar (order) retirar de rascunho
+ ### -  Enviar (order) retirar de rascunho
 
- # - Listar todos os pedidos que estao no rascunho (draft)
+ ### - Listar todos os pedidos que estao no rascunho (draft)
 
- # - Poder acessar todos os detalhes de uma mesa com pedidos dela
+ ### - Poder acessar todos os detalhes de uma mesa com pedidos dela
 
- # - Concluir o pedido   
+ ### - Concluir o pedido   
